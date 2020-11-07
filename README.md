@@ -68,12 +68,13 @@ pause      : pause current Audio!
 ping       : check BOT heartBeat
 play       : Play Music from Yt or given Url
 queue      : check current queue!
-remove     : remove specific queue!
 resume     : resume current Audio!
-search     : Youtube search given query
+drop       : Drop a song from the queue
 skip       : Skip now playing audio!
+jump       : Jump to any song you like
 stop       : stop nowplaying audio
 volume     : change player volume
+stats      : Get the detailed information of bot
 ```
 ## 📄 License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/reconlx/music-discord-bot/blob/main/LICENCE) file for details.
