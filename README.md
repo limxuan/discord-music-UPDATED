@@ -26,7 +26,7 @@
 ## 🛠 Setting up the bot 
 
 ### Option 1 : Watching youtube tutorial
-- Youtube Link : https://youtu.be/P17_XEUgPfU<br />
+- Youtube Link : https://youtu.be/Em4DXiu7FoM<br />
 
 ### Option 2 : Setting up individually with docs.
 
